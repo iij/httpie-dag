@@ -16,7 +16,7 @@ setup(
     author=httpie_dag.__author__,
     author_email=httpie_dag.__author_email__,
     license=httpie_dag.__license__,
-    url='https://github.com/yosinobu/httpie-dag',
+    url='https://github.com/iij/httpie-dag',
     packages=find_packages(),
     zip_safe=False,
     test_suite = 'nose.collector',
