@@ -25,7 +25,7 @@ class DAGSignatureV2Auth(requests.auth.HTTPBasicAuth):
     canonical_resource_keys = [
         # sub-resource
         'acl', 'location', 'partNumber', 'policy', 'uploadId', 'uploads',
-        'cors', 'delete', 'space', 'traffic', 'website',
+        'cors', 'delete', 'space', 'traffic', 'website', 'regions',
         # for analysis
         'clusterManagement', 'query', 'database', 'table', 'select', 'split',
         # GET request parameters
