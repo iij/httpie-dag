@@ -1,11 +1,11 @@
-==========================================================
-HTTPie Plugin for IIJ GIO Storage & Analysis Service (DAG)
-==========================================================
+==================================================
+HTTPie Plugin for IIJ Object Storage Service (DAG)
+==================================================
 
-HTTPie_ に `IIJ GIO Storage & Analysis Service (DAG)`_ REST API 認証のシグネチャ生成機能を付加するプラグイン
+HTTPie_ に `IIJ Object Storage Service (DAG)`_ REST API 認証のシグネチャ生成機能を付加するプラグイン
 
 .. _HTTPie: https://httpie.org/
-.. _`IIJ GIO Storage & Analysis Service (DAG)`: http://www.iij.ad.jp/biz/storage/
+.. _`IIJ Object Storage Service (DAG)`: http://www.iij.ad.jp/biz/storage/
 
 
 インストール方法
